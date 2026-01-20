@@ -1,0 +1,12 @@
+#VS相关文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+#c语言编译产物
+*.o
+*.exe
+*.out

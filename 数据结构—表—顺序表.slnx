@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="数据结构—表—顺序表/数据结构—表—顺序表.vcxproj" />
+</Solution>
